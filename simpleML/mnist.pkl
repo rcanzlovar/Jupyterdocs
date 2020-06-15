@@ -1,0 +1,9 @@
+Covid Data Graphs1.ipynb
+PythonML
+README.md
+Rock-Paper-Scissors.ipynb
+RPS
+simpleML
+stock data number 2.ipynb
+Stock Workbook.ipynb
+TensorFlow
